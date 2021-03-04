@@ -1,0 +1,6 @@
+E:\P119\C#\ClassInheretance\ClassInheretance\bin\Debug\ClassInheretance.exe.config
+E:\P119\C#\ClassInheretance\ClassInheretance\bin\Debug\ClassInheretance.exe
+E:\P119\C#\ClassInheretance\ClassInheretance\bin\Debug\ClassInheretance.pdb
+E:\P119\C#\ClassInheretance\ClassInheretance\obj\Debug\ClassInheretance.csprojAssemblyReference.cache
+E:\P119\C#\ClassInheretance\ClassInheretance\obj\Debug\ClassInheretance.exe
+E:\P119\C#\ClassInheretance\ClassInheretance\obj\Debug\ClassInheretance.pdb
